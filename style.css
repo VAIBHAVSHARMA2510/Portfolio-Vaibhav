@@ -1,0 +1,77 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+html{
+    line-height: 1.15;
+}
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6c757d;
+    text-align: left;
+    background-color: #ffffff;
+}
+
+
+.btn{
+    padding: 10px 25px;
+    border-radius: 100px;
+}
+.btn-white{
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+}
+.btn-blue{
+    border: 2.4px solid #ffffff;
+    color:#ffffff;
+}
+.hero-text{
+    margin-top: 150px;
+}
+.typed-cursor{
+    font-size: 45px;
+    color: #ffffff;
+}
+.position-absolute{
+    font-weight: 700;
+}
+
+a{
+    color: #0bceaf;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover{
+    color: #078571;;
+    text-decoration:underline;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    padding: 20px 10px;
+    color: #343a40;
+    font-weight: 500;
+    outline: none;
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:active{
+    color: #0bceaf;
+}
+.progress-bar{
+    width:95%;
+}
+.progress-bar1{
+    width:80%;
+}
+.progress-bar2{
+    width:90%;
+}
+.progress-bar3{
+    width:85%;
+}
